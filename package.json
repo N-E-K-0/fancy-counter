@@ -1,7 +1,7 @@
 {
   "homepage": "https://n-e-k-0.github.io/fancy-counter/",
   "name": "fancy-counter",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
